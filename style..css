@@ -1,0 +1,48 @@
+*{
+    padding:0;
+    margin:0;
+    background-color: #D3D3D3;
+}
+#title h1{
+    font-size: 45px;
+    padding:40px;
+    margin-left: 35%;
+    font-weight: bold;
+}
+#title h2{
+    margin-left: 40%;
+}
+#image{
+    width:1100px;
+    height:auto;
+    border: 50px solid white;
+    margin-left: 20px;
+}
+#img-caption p{
+    font-size: 20px;
+    text-align: center;
+}
+#tribute-info h3{
+    padding:40px;
+    text-align: center;
+    font-size: 25px;
+}
+#contents{
+    text-align:left;
+    width:50%;
+    margin-left:30%;
+}
+#contents ul li{
+    padding:10px;
+}
+#final p{
+    padding:20px;
+    text-align:left;
+    margin-left:30%;
+}
+#finale{
+    margin-left:10%;
+}
+#finale p{
+    font-size:20px;
+}
